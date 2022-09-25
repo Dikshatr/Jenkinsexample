@@ -1,6 +1,6 @@
 import java.io.File;
 import java.io.IOException;
-package com.mycompany.app;
+/*package com.mycompany.app;*/
 
 /**
  * Hello world!
