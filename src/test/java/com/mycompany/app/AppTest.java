@@ -1,3 +1,6 @@
+import java.io.File;
+import java.io.IOException;
+
 package com.mycompany.app;
 
 import static org.junit.Assert.assertTrue;
